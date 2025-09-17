@@ -1,4 +1,4 @@
-# MCP Server: pygame ball control
+# MCP Server: Pygame Ball Control
 
 ## Requirements
 - fastapi
